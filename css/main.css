@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+    padding: 10px;
+  }
+  body {
+    background-color: purple;
+}
+.subtitle{
+    font-weight: bold;
+}
+
+.programming-languages i{
+    font-size: 7em;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+}
+
+/* Aquí puedes agregar estilos para los elementos específicos si lo deseas */
+.subtitle {
+    font-family: "Times New Roman", serif;
+}
